@@ -67,3 +67,15 @@ Una vez en la página de pago podrá observar lo que obtendrá por su pago, el p
  
  
 ![payment](https://res.cloudinary.com/codenjobs/image/upload/v1660749465/user/file/ewnyuedxilunwdkgldmf.png)
+
+<br>
+
+
+## Video Demostrativo
+
+<video width="640" height="480" controls>
+  <source src="https://user-images.githubusercontent.com/47251170/186528294-b7a96b45-f713-470f-9dc4-fa4d83d7f9fd.mp4" type="video/mp4">
+
+</video>
+
+
