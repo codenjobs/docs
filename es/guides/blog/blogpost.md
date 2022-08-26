@@ -51,3 +51,13 @@ Después de haber llenado debidamente los campos, hacer clic en el botón "Conti
 Después de haber revisado y estar conforme con la previsualización del artículo, podrá publicar el artículo haciendo clic en el botón "Publish your blog post", este botón se encuentra en la parte inferior de la página.
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660578394/user/file/ds2bobgbtxjpbr5ogddy.png)
+
+
+<br>
+
+## Video Demostrativo
+
+<video width="640" height="480" controls>
+  <source src="https://user-images.githubusercontent.com/47251170/187001632-4c155037-db0f-42e8-876b-ad458e223b85.mp4" type="video/mp4">
+
+</video>
