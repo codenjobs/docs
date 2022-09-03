@@ -5,11 +5,12 @@
   * [SPL Wallet](./getting-started/spl-wallet.md)
 
 
-* Guia de uso
+* User Guide
   * [Account]()
     * [Settings](./guides/account/settings.md)
     * [Sign Up](./guides/account/signup.md)
     * [Profile](./guides/account/profile.md)
+    * [Notifications](./guides/account/notification.md.md)
   * [Jobs]()
     * [Board](./guides/jobs/board.md)
     * [Search Engine](./guides/jobs/search-engine.md)

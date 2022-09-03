@@ -10,6 +10,7 @@
     * [Ajustes](./guides/account/settings.md)
     * [Registro](./guides/account/signup.md)
     * [Perfil](./guides/account/profile.md)
+    * [Notificaciones](./guides/account/notification.md)
   * [Empleo]()
     * [Portal](./guides/jobs/board.md)
     * [Buscador](./guides/jobs/search-engine.md)
