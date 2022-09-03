@@ -10,7 +10,7 @@
     * [Settings](./guides/account/settings.md)
     * [Sign Up](./guides/account/signup.md)
     * [Profile](./guides/account/profile.md)
-    * [Notifications](./guides/account/notification.md.md)
+    * [Notifications](./guides/account/notification.md)
   * [Jobs]()
     * [Board](./guides/jobs/board.md)
     * [Search Engine](./guides/jobs/search-engine.md)
