@@ -1,15 +1,15 @@
-# Gestión de Artículos
+# Blog post Management
  
  
-Existen dos maneras para poder *editar* o *eliminar* articulos.
+There are two ways to *edit* or *delete* posts.
  
-* El autor puede dirigirse al enlace de su artículo, y debajo del título podrá observar las opciones *editar* y *eliminar* correspondientes.
+* The author can go to the link of his post, and under the title he will be able to see the corresponding *edit* and *delete* options.
  
  
 ![edit-and-delete](https://res.cloudinary.com/codenjobs/image/upload/v1660683387/user/file/fiq5muhvojmnymtb2tbd.png)
  
  
-* Dirigiendose al *perfil de usuario* y haciendo clic en *Posts* o directamente usando el siguiente enlace https://www.codenjobs.com/user/nombre-de-usuario/posts , una vez en la página de artículos podrá observar las opciones *editar* y *eliminar* de cada artículo creado.
+* By going to the *user profile* and clicking on *Posts* or directly using the following link https://www.codenjobs.com/user/nombre-de-usuario/posts , once in the articles page you will be able to see the *edit* and *delete* options for each article created.
  
  
 ![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1662210209/user/file/em88a0iiayberz9oviai.png)
@@ -17,9 +17,9 @@ Existen dos maneras para poder *editar* o *eliminar* articulos.
 ![posts](https://res.cloudinary.com/codenjobs/image/upload/v1660683438/user/file/eyql7yzv5yfjphb9bhid.png)
 
 
-## Video Demostrativo
+## Demo
 
-### Editar
+### Edit
 
 <video width="640" height="480" controls>
   <source src="https://user-images.githubusercontent.com/47251170/187002671-b331440f-95f0-474b-9611-9cae165f56f0.mp4" type="video/mp4">
@@ -29,7 +29,7 @@ Existen dos maneras para poder *editar* o *eliminar* articulos.
 <br>
 <br>
 
-### Eliminar
+### Delete
 
 <video width="640" height="480" controls>
   <source src="https://user-images.githubusercontent.com/47251170/187002691-bd8d645b-82fd-466e-9d41-68a58e6010cd.mp4" type="video/mp4">

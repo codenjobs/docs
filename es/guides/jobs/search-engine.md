@@ -10,14 +10,12 @@ El *buscador* de empleo es una herramienta disponible en la [página de empleos]
  
 Se puede acceder haciendo click en el botón *Find A Job* ubicado en el Portal
  
-
-![find-job-btn](https://res.cloudinary.com/codenjobs/image/upload/v1660745392/user/file/rbpajttfamzjssnwdmcq.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210002/user/file/mtcaq1yzxuf8glcxd8af.png)
  
  
 También puede ser accedido desde la barra de navegación, en la parte superior de la página, haciendo click en el menú desplegable *Find A Job*
  
-
-![nav-find-job](https://res.cloudinary.com/codenjobs/image/upload/v1660745410/user/file/szg9sha4puebspvj18wx.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210051/user/file/mjaewuyfpmco1l9gtaux.png)
  
 
 El menú desplegable cuenta con la facilidad de poder seleccionar la categoría de la oferta de empleo que el usuario desea buscar.

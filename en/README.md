@@ -1,11 +1,19 @@
-# Introduction 
----
-
-Decentralized Finance (DeFi) has seen exponential growth in Total Value Locked (TVL) in the past year, with over $80 billion locked in May 2021. Using DeFi TVL as an index for blockchain adoption, observing that Solana had only $1 billion in TVL in June 2021 signals huge future growth potential, given Solana’s 50,000 transactions per second (TPS), 400 millisecond block times, and scaling according to Moore’s Law. Serum is an example of a core protocol leveraging Solana’s technology to build a fast central limit order book DEX to power DeFi. We believe that the protocol with the highest usage in this ecosystem will be an Automated Market Maker (AMM) based DEX that deposits liquidity into Serum and allows for permissionless liquidity pool creation by end users.
-
-Atrix is an AMM built on Solana which utilizes Serum’s order books and allows for permissionless liquidity pool and farm creation. Atrix will provide users and projects the best experience for swapping on and adding liquidity to Serum, and interacting with farms.
-
-
-<video width="100%" height="auto" controls>
-  <source src="https://user-images.githubusercontent.com/47251170/184493772-2d66471c-4fdb-4934-9672-1b4825e7e9be.mp4" type="video/mp4">
-</video>
+## What is Code&Jobs?
+ 
+Code&Jobs is a digital platform that allows users to search for jobs, and employers to hire professionals as well as post job offers that can count with the option of payment in cryptocurrencies.
+ 
+It also has a community of users who can interact with each other using community channels (Discord, Telegram, Twitter). as well as share Blockchain-related content.
+ 
+## What can I do in Code&Jobs?
+ 
+### Cryptocurrency Trade and Swap.
+ 
+Code&Jobs allows users to trade cryptocurrencies, as well as to swap them.
+ 
+### Job search.
+ 
+Code&Jobs has a job portal where users can search for jobs according to their skills, job type (Full Time, Part Time, Freelance, etc.), as well as search for jobs where they can receive payments in cryptocurrencies.
+ 
+### Publish and find content relevant to blockchain.
+ 
+One of the main features of Code&Jobs is that the platform revolves around blockchain, so its users can feed on related content as well as create their own content to share with the community.

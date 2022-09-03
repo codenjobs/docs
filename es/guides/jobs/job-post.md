@@ -4,11 +4,11 @@
 *Antes de poder publicar una oferta de empleo, es necesario que el usuario haya [creado una cuenta](https://www.codenjobs.com/register) y [iniciado sesión](https://www.codenjobs.com/signin).*
  
  
-Existen tres maneras de poder crear un artículo:
+Existen tres maneras de poder crear una oferta de empleo:
  
 * Ubicándose en la barra de navegación, haciendo clic en el icono de usuario, haciendo clic en el botón *Profile*, en la barra secundaria de navegación hacer clic en *Jobs*, luego ubicarse en el panel derecho y hacer clic en el botón *Post a job*.
- 
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579500/user/file/wxm3tka2zgg6ekhppxbm.png)
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210070/user/file/qc8pu3eqqdit9j2whtj3.png)
 
 ![profile-jobs](https://res.cloudinary.com/codenjobs/image/upload/v1660749329/user/file/vs3pcriwozkmxybqan02.png)
 
@@ -19,9 +19,9 @@ Existen tres maneras de poder crear un artículo:
 <br>
  
  
-* Ubicándose en la barra de navegación, en la esquina superior derecha podrá observar el icono de un lápiz, haga clic en el icono y se mostrará un modal con dos opciones (crear un blog post) y (crear un job post u oferta de trabajo), debe hacer clic sobre la primera opción.
+* Ubicándose en la barra de navegación, en la esquina superior derecha podrá observar el icono de un lápiz, haga clic en el icono y se mostrará un modal con dos opciones (crear un blog post) y (crear un job post u oferta de trabajo), debe hacer clic sobre la segunda opción.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577537/user/file/v04wlc2h9zn6x1ixtap1.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210118/user/file/pfv3ux8zsh4wqpolm2bg.png)
 
 ![modal-job](https://res.cloudinary.com/codenjobs/image/upload/v1660749394/user/file/gsxbfafawipn9alw4lot.png)
 
@@ -31,7 +31,7 @@ Existen tres maneras de poder crear un artículo:
  
 * Ubicándose en el [portal](https://www.codenjobs.com/) y haciendo clic en el botón *Post a Job*
 
-![post-btn](https://res.cloudinary.com/codenjobs/image/upload/v1660749414/user/file/u0bin6hr6svmzwccksrk.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662234624/user/file/vzwisqzeklpck9hix16n.png)
 
  
 A continuación se mostrará un formulario con los campos necesarios para crear una oferta de empleo, los campos son:
