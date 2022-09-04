@@ -1,4 +1,4 @@
-# CODE Token
+# <img src="https://www.codenjobs.com/static/logo.png" width="32px" height="32px"> CODE Token
 
 
 Para facilitar la publicación de puestos de trabajo que manejen criptomoneda y hacer que el sistema esté más orientado a los usuarios de criptomonedas, decidimos acuñar un token propio, utilizando la red Solana para desplegarlo debido a las capacidades de su protocolo y a sus muchos beneficios.

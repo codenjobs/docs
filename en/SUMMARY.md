@@ -27,7 +27,12 @@
 
 
 * Comumnity
-  * [Discord](https://discord.gg/eWTXzPrsJ3)
+  <!-- <div>
+    <a href="https://discord.gg/2Z7Y4Z4" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdpsf3nO5O1Ntuuia0DZSWPuJJ8xI-bIxLJSzT6ID1TO-gYejY4d3OGnzlpCJjTuqnHk&usqp=CAU" alt="Discord">
+    </a>
+  </div> -->
+  * [Discord](https://discord.gg/8Q2qZ7Z)
   * Telegram
     * [Channel](https://t.me/codenjobs)
     * [Group](https://t.me/codenjobsgroup)

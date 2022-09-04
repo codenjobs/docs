@@ -1,5 +1,4 @@
-# CODE Token
-
+# <img src="https://www.codenjobs.com/static/logo.png" width="32px" height="32px"> CODE Token
 
 To facilitate the job posting with cryptocurrency and to make the system more crypto user oriented, we decided to mint a token of our own, using Solana network to deploy it because of its protocol capabilities and lot of benefits
 
