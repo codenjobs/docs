@@ -1,5 +1,3 @@
-![logo](https://www.codenjobs.com/static/logo.png)
-
 ## ¿Qué es Code&Jobs? 
 
 ![alt](https://www.codenjobs.com/static/main_money.jpg)
