@@ -40,17 +40,22 @@ Next, a form will be displayed with the necessary fields to create a blog articl
  
 *Fields marked with an asterisk are required.*
  
-In the content section you can upload images, to upload images you must click where it is written "Upload an image", once you choose the image and it has been uploaded, you will get the link to use it in the article, as well as the option to preview the image.
+In the content section you will be able to upload images, to upload images you must click or drag an image where it is written "Upload".
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577608/user/file/xmpdehb445vpppxc5ywd.png)
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577618/user/file/fucvguywmlxx9pagavcg.png)
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579859/user/file/m8pqss0o9v6iso4gcijm.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663098861/user/file/bfevysxuzwrhxzentekp.png)
+
+Once you have chosen the image and it has been uploaded, you will get the link to use it in the article, as well as the option to preview the image, and the option to get the selected images to reuse in the Files section.
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663105983/user/file/xvi7fnct7yeotranfyfu.png)
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663105228/user/file/eyvyd0wrpdkesrces93h.gif)
  
-After you have duly filled in the fields, click on the "Continue to preview" button, this will display a preview of the post, in which you will be able to see the content of the article and the cover image.
+After having duly filled in the fields, click on the "Continue to preview" button, this will show a preview of the article, in which you will be able to see the content of the article and the cover image.
  
-After you have reviewed it, you can publish the article by clicking on the "Publish" button, this button is located at the bottom of the page.
+After you have reviewed and are satisfied with the article preview, you can publish the article by clicking on the "Publish your blog post" button, this button is located at the bottom of the page.
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660578394/user/file/ds2bobgbtxjpbr5ogddy.png)
+
 
 
 <br>

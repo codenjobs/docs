@@ -65,8 +65,15 @@ Section where the list of companies can be displayed, and can be sorted from new
 ## Files
 - - -
  
-Section where all the files uploaded by the user at the time of creating the articles will be listed.
+Section where you can obtain a list of all the files uploaded by the user at the time of creating the articles.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660656459/user/file/emloicz7wfgxupd4v782.png)
+The file title, description, creation date, and options such as reuse, edit or delete the file can be displayed.
+ 
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663098610/user/file/xzxeqm7fspbanpk9b64k.png)
 
 
+### Edit Files
+
+Clicking the *edit* button will open a modal form with the file title and description fields, and a button to update the file.
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663105639/user/file/hm5ths4zrfvj4kaygpe0.png)

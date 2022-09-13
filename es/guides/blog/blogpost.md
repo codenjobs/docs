@@ -40,11 +40,16 @@ Seguidamente se mostrará un formulario con los campos necesarios para crear un 
  
 *Los campos marcados con asterisco son obligatorios*
  
-En la sección de contenido se podrán subir imágenes, para poder subir imágenes debe hacer clic donde esta escrito "Upload an image for this blog post", una vez escogida la imagen y esta haya sido subida, obtendrá el enlace para poder utilizarlo en el articulo, asi como la opción de previsuar la imagen.
+En la sección de contenido se podrán subir imágenes, para poder subir imágenes debe hacer clic o arrastrar una imagen donde esta escrito "Upload".
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577608/user/file/xmpdehb445vpppxc5ywd.png)
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577618/user/file/fucvguywmlxx9pagavcg.png)
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579859/user/file/m8pqss0o9v6iso4gcijm.png)
+ 
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663098861/user/file/bfevysxuzwrhxzentekp.png)
+
+Una vez escogida la imagen y esta haya sido subida, obtendrá el enlace para poder utilizarlo en el articulo, así como la opción de previsualizar la imagen, y la opción de obtener las imágenes seleccionadas para reutilizar en la sección de Archivos.
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663099335/user/file/nlxszd4vdveqia0oeodl.png)
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663105228/user/file/eyvyd0wrpdkesrces93h.gif)
  
 Después de haber llenado debidamente los campos, hacer clic en el botón "Continue to preview", de esta manera se mostrará una previsualización del artículo, en la cual podrá observar el contenido del artículo y la imagen de portada.
  

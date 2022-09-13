@@ -65,8 +65,17 @@ Sección donde se podrá visualizar el listado de compañías, y se podrán orde
 ## Archivos
 - - -
  
-Sección donde se listarán todos los archivos subidos por el usuario al momento de crear los artículos.
+Sección donde se podrá obtener un listado de todos los archivos subidos por el usuario al momento de crear los artículos.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660656459/user/file/emloicz7wfgxupd4v782.png)
+Se podrá visualizar el título del archivo, descripción, la fecha de creación, y opciones como reutilizar el archivo, editarlo, o eliminarlo.
+ 
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663098610/user/file/xzxeqm7fspbanpk9b64k.png)
+
+
+### Editar Archivos
+
+Al hacer clic en el botón *edit* Se abrirá un modal con el formulario con los campos de títulos y descripción del archivo, y un botón para actualizar el archivo.
+
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663105639/user/file/hm5ths4zrfvj4kaygpe0.png)
 
 
