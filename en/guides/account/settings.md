@@ -2,7 +2,7 @@
  
 To go to the account settings section go to the top right corner of the navigation bar, click on the user icon, then click on *Settings*, or go to https://www.codenjobs.com/settings/profile .
  
-![nav-settings](https://res.cloudinary.com/codenjobs/image/upload/v1662212598/user/file/ut3jltjfxp0y2nrqijri.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663508562/user/file/heiwi3sbkeaxfla2emof.png)
 
 
 The user profile page has a sub navigation bar with the following sections:

@@ -6,7 +6,7 @@ Actualmente existen tres maneras de poder crear un artículo:
  
 * Ubicándose en la barra de navegación, haciendo clic en el icono de usuario, haciendo clic en el botón *Profile*, en la barra secundaria de navegación hacer clic en *Posts*, luego ubicarse en el panel derecho y hacer clic en el botón *Post a blog*.
  
-![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1662210209/user/file/em88a0iiayberz9oviai.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663505899/user/file/zojh1mqpqbqjnjz6odlw.png)
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579488/user/file/vpj3inpfxbzvk1gwzxr8.png)
  
@@ -17,7 +17,7 @@ Actualmente existen tres maneras de poder crear un artículo:
  
 * Ubicándose en la barra de navegación, haciendo clic en *Community* y luego en *Blog*, una vez en la página de [blogs](https://www.codenjobs.com/blogs) ubicarse en el panel derecho y hacer clic en *Post a blog*.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210893/user/file/yaope5lr3ckyebaenb0o.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506439/user/file/rzocowek7abuhtlyeupg.png)
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579624/user/file/yvfrmyreyayu4iy709q1.png)
  
@@ -25,7 +25,7 @@ Actualmente existen tres maneras de poder crear un artículo:
  
 * Ubicándose en la barra de navegación, en la esquina superior derecha podrá observar el icono de un lápiz, haga clic en el icono y se mostrará un modal con dos opciones (crear un blog post) y (crear un job post u oferta de trabajo), debe hacer clic sobre la primera opción.
  
-![nav-post](https://res.cloudinary.com/codenjobs/image/upload/v1662210927/user/file/mejzmdfqo7bccwik6wxu.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506739/user/file/xpyrtxtqcbd7utkkdxmd.png)
 
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577569/user/file/q766glxe2dexarpilqo6.png)
  

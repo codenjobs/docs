@@ -6,7 +6,7 @@ There are currently three ways to create an blog post:
  
 * By locating in the navigation bar, clicking on the user icon, clicking on the *Profile* button, in the secondary navigation bar click on *Posts*, then locate in the right panel and click on the *Post to blog* button.
  
-![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1662210209/user/file/em88a0iiayberz9oviai.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663505899/user/file/zojh1mqpqbqjnjz6odlw.png)
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579488/user/file/vpj3inpfxbzvk1gwzxr8.png)
  
@@ -17,7 +17,7 @@ There are currently three ways to create an blog post:
  
 * Locating in the navigation bar, clicking on *Community* and then on *Blog*, once on the [blogs page](https://www.codenjobs.com/blogs) locate in the right panel and click on *post a blog*.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210893/user/file/yaope5lr3ckyebaenb0o.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506439/user/file/rzocowek7abuhtlyeupg.png)
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579624/user/file/yvfrmyreyayu4iy709q1.png)
  
@@ -25,7 +25,7 @@ There are currently three ways to create an blog post:
  
 * In the navigation bar, in the upper right corner you will see a *pencil* icon, click on the icon and a modal will appear with two options (post a blog) and (post a job), you must click on the first option.
  
-![nav-post](https://res.cloudinary.com/codenjobs/image/upload/v1662210927/user/file/mejzmdfqo7bccwik6wxu.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506739/user/file/xpyrtxtqcbd7utkkdxmd.png)
 
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577569/user/file/q766glxe2dexarpilqo6.png)
  

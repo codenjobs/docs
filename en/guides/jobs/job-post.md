@@ -8,7 +8,7 @@ There are three ways to post a job offer:
  
 * In the navigation bar, clicking on the user icon, clicking on the *Profile* button, in the secondary navigation bar click on *Jobs*, then locate in the right pane and click on the *Post a job* button.
 
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210070/user/file/qc8pu3eqqdit9j2whtj3.png)
+![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1663505899/user/file/zojh1mqpqbqjnjz6odlw.png)
 
 ![profile-jobs](https://res.cloudinary.com/codenjobs/image/upload/v1660749329/user/file/vs3pcriwozkmxybqan02.png)
 
@@ -21,7 +21,7 @@ There are three ways to post a job offer:
  
 * In the navigation bar, in the upper right corner you will see a pencil icon, click on the icon and a modal will appear with two options (post a blog) and (post a job), you must click on the second option.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210118/user/file/pfv3ux8zsh4wqpolm2bg.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663508437/user/file/jzqmm8rtfzwxaurhk0yb.png)
 
 ![modal-job](https://res.cloudinary.com/codenjobs/image/upload/v1660749394/user/file/gsxbfafawipn9alw4lot.png)
 

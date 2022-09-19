@@ -4,7 +4,7 @@ En la plataforma está integrada una funcionalidad de notificaciones que permite
  
 Se pueden observar las notificaciones en los iconos ubicados en la parte superior de la barra de navegación.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662215611/user/file/pje5phksuzrhwttnjzwj.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506057/user/file/zcwhgjhiqwlc8cojlnmv.png)
  
 Las notificaciones de *comentarios* y *nuevos seguidores* se pueden visualizar en el icono de *campana*, mientras que las notificaciones de *mensajes* en el icono de *sobre*.
  
@@ -12,7 +12,7 @@ Las notificaciones de *comentarios* y *nuevos seguidores* se pueden visualizar e
  
 Al hacer clic en el icono de notificación de nuevos comentarios y seguidores el usuario podrá observar una lista de estos, y contar con distintas opciones.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662216654/user/file/i46gmnblsdzemekts05s.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506057/user/file/zcwhgjhiqwlc8cojlnmv.png)
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662216680/user/file/ti9jrk3ufeizxclrp9ug.png)
  
@@ -42,7 +42,7 @@ En la sección de ajustes se podrá configurar las notificaciones de los comenta
  
 ## Notificación de nuevos mensajes
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662216945/user/file/vtosmwpduwsbeivkaduf.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506153/user/file/uhjoov48jfzmwsfnd9da.png)
  
 Al hacer clic en el icono de nuevos mensajes el usuario podrá obtener una lista con los nuevos mensajes.
  

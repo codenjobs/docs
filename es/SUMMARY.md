@@ -24,6 +24,7 @@
 * Exchange
   * [Swapping](./exchange/swapping.md)
   * [CODE Token](./exchange/code-token.md)
+  * [NFT Projects](./echange/nft-projects.md)
 
 
 * Comunidad

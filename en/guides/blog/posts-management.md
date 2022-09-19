@@ -12,7 +12,7 @@ There are two ways to *edit* or *delete* posts.
 * By going to the *user profile* and clicking on *Posts* or directly using the following link https://www.codenjobs.com/user/nombre-de-usuario/posts , once in the articles page you will be able to see the *edit* and *delete* options for each article created.
  
  
-![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1662210209/user/file/em88a0iiayberz9oviai.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663505899/user/file/zojh1mqpqbqjnjz6odlw.png)
  
 ![posts](https://res.cloudinary.com/codenjobs/image/upload/v1660683438/user/file/eyql7yzv5yfjphb9bhid.png)
 

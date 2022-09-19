@@ -8,7 +8,7 @@ Existen tres maneras de poder crear una oferta de empleo:
  
 * Ubicándose en la barra de navegación, haciendo clic en el icono de usuario, haciendo clic en el botón *Profile*, en la barra secundaria de navegación hacer clic en *Jobs*, luego ubicarse en el panel derecho y hacer clic en el botón *Post a job*.
 
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210070/user/file/qc8pu3eqqdit9j2whtj3.png)
+![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1663505899/user/file/zojh1mqpqbqjnjz6odlw.png)
 
 ![profile-jobs](https://res.cloudinary.com/codenjobs/image/upload/v1660749329/user/file/vs3pcriwozkmxybqan02.png)
 
@@ -21,7 +21,7 @@ Existen tres maneras de poder crear una oferta de empleo:
  
 * Ubicándose en la barra de navegación, en la esquina superior derecha podrá observar el icono de un lápiz, haga clic en el icono y se mostrará un modal con dos opciones (crear un blog post) y (crear un job post u oferta de trabajo), debe hacer clic sobre la segunda opción.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210118/user/file/pfv3ux8zsh4wqpolm2bg.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663508437/user/file/jzqmm8rtfzwxaurhk0yb.png)
 
 ![modal-job](https://res.cloudinary.com/codenjobs/image/upload/v1660749394/user/file/gsxbfafawipn9alw4lot.png)
 

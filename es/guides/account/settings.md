@@ -2,7 +2,7 @@
  
 Para ir a la sección de ajustes de cuenta debe dirigirse a la esquina superior derecha de la barra de navegación, hacer clic en el icono de usuario, seguidamente de clic en *Settings*, o dirigiendose a https://www.codenjobs.com/settings/profile .
  
-![nav-settings](https://res.cloudinary.com/codenjobs/image/upload/v1662212598/user/file/ut3jltjfxp0y2nrqijri.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663508562/user/file/heiwi3sbkeaxfla2emof.png)
 
 
 La página de perfil de usuario cuenta con una sub barra de navegación con las siguientes secciones:

@@ -4,7 +4,7 @@
 The job *search engine* is a tool available on the [jobs page](https://www.codenjobs.com/jobs). It allows the user to perform refined searches by title, category, type, company, salary, location and skills.
  
  
-![find-job-search-engine](https://res.cloudinary.com/codenjobs/image/upload/v1660745368/user/file/kd2ttr65vbeoy257iepk.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663508270/user/file/q1n3dfkyhsvuxin0gylx.png)
 
  
  
@@ -15,7 +15,6 @@ It can be accessed by clicking on the *Find A Job* button located in the Home Pa
  
 It can also be accessed from the navigation bar at the top of the page by clicking on the drop-down menu *Find A Job*.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662210051/user/file/mjaewuyfpmco1l9gtaux.png)
- 
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663508153/user/file/sjjepqxgpyvolygikhwo.png)
 
 The drop-down menu has the feature of being able to select the category of the job offer that the user wishes to search for.

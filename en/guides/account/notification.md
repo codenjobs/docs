@@ -4,7 +4,7 @@ A notification feature is built into the platform that allows users to find out 
  
 Notifications can be seen in the icons located at the top of the navigation bar.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662215611/user/file/pje5phksuzrhwttnjzwj.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506057/user/file/zcwhgjhiqwlc8cojlnmv.png)
  
 Notifications for *comments* and *new followers* can be viewed on the *bell* icon, while notifications for *messages* on the *envelope* icon.
  
@@ -12,7 +12,7 @@ Notifications for *comments* and *new followers* can be viewed on the *bell* ico
  
 By clicking on the notification icon for new comments and followers the user will be able to see a list of these, and have different options.
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662216654/user/file/i46gmnblsdzemekts05s.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506057/user/file/zcwhgjhiqwlc8cojlnmv.png)
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662216680/user/file/ti9jrk3ufeizxclrp9ug.png)
  
@@ -42,7 +42,7 @@ In the settings section you will be able to configure the notifications for comm
  
 ## Notification of new messages
  
-![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1662216945/user/file/vtosmwpduwsbeivkaduf.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663506153/user/file/uhjoov48jfzmwsfnd9da.png)
  
 By clicking on the new messages icon the user will be able to get a list of new messages.
  

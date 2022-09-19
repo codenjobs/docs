@@ -2,7 +2,7 @@
  
 To view the user profile it is necessary to have completed the registration and to have authenticated yourself on the site. You can then go to the user profile by going to the top right corner of the navigation bar, clicking on the user icon, then clicking on *Profile*, or by going to https://www.codenjobs.com/user/nombre-de-usuario.
  
-![nav-profile](https://res.cloudinary.com/codenjobs/image/upload/v1662210927/user/file/mejzmdfqo7bccwik6wxu.png)
+![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1663505899/user/file/zojh1mqpqbqjnjz6odlw.png)
  
 The user profile page has a sub navigation bar with the following sections:
  
